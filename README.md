@@ -9,7 +9,7 @@ My current setup includes:
 * VS Code
 * Blender 4.5 LTS
 
-I have a few repos, but my favorite is definitely [Doll AI 1.0](https://github.com/StronkEggKing/Doll-AI-1.0)!
+I have a few repos, but my favorite is definitely [Doll AI 2.0](https://github.com/StronkEggKing/Doll-AI-2.0)!
 
 If you want to collaborate with me or have questions, feel free reach out via [X(Twitter)](https://x.com/Omniranger_EGG), Discord (omniranger068), or [Instagram](https://www.instagram.com/stronk_egg_king)
 
