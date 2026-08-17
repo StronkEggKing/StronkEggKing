@@ -4,4 +4,4 @@ I'm Stronk Egg King (or SEK for short), a coder and 3D animator who loves to mak
 
 I can bring your unhinged imagination to life, either as an animated show, video game, or website/app.
 
-Check out [my website](https://stronk-egg-king.carrd.co/) for more information about me.
+Check out [my website](https://stronkeggking.github.io/) for more information about me.
